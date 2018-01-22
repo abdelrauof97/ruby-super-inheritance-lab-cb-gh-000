@@ -5,8 +5,8 @@ class Student
   end
   
   def raise_hand
-    
-  end
+    puts 
+  end 
   
 end 
 
